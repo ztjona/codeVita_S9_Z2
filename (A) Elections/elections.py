@@ -102,15 +102,15 @@ def solveQueue(queue):
                 # nothing on the sides?!
                 pass
 
-        # --- Counting!
-        As = votes['A'] + votersConverted['A']
-        Bs = votes['B'] + votersConverted['B']
-        if As > Bs:
-            return 'A'
-        elif As < Bs:
-            return 'B'
-        else:
-            return '-'
+    # --- Counting!
+    As = votes['A'] + votersConverted['A']
+    Bs = votes['B'] + votersConverted['B']
+    if As > Bs:
+        return 'A'
+    elif As < Bs:
+        return 'B'
+    else:
+        return '-'
 
 
 def main():
