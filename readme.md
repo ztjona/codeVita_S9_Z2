@@ -5,8 +5,8 @@ We make a backup of the challenge statements.
 ## Summary
 The following items show the state on every challenge:
 
-1. Problem A (Elections): **Wrong answer on private cases**
-1. Problem B (Binary Equivalent): To do
+1. Problem A (Elections): **Presentation Error**
+1. Problem B (Binary Equivalent): **Wrong answer on private cases**
 1. Problem C (Unlocker): To do
 1. Problem D (T9 Inverse): To do
 1. Problem E (Palindromic Count): To do
