@@ -24,8 +24,9 @@ The following items show the state on every challenge:
 **To do** means that the challenge is pending to be tried.
 
 ## About the problems
-The cstatement of every problem was originally posted at the web site.
+The statement of every problem was originally posted at codevita web site.
 https://practice.tcscodevita.com/
+
 Additionally, the challenges are publicly available in several websites.
 
 ## Important tips about the contest
